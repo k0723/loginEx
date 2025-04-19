@@ -1,0 +1,23 @@
+{
+  "name": "loginex",
+  "version": "1.0.0",
+  "description": "JWT,Oauth2.0 Example Test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.27.0",
+    "@babel/core": "^7.26.10",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.9",
+    "sequelize-cli": "^6.6.2"
+  },
+  "devDependencies": {
+    "@babel/node": "^7.26.0",
+    "@babel/preset-env": "^7.26.9"
+  }
+}
